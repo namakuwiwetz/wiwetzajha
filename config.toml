@@ -1,0 +1,6 @@
+#baseURL = "http://namakuwiwetz.github.io/wiwetzajha/"
+baseURL = "http://example.com"
+languageCode = "en-us"
+title = "wiwet ajha"
+#theme = "contrast-hugo"
+theme = "devise"

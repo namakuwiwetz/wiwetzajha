@@ -1,5 +1,4 @@
-#baseURL = "http://namakuwiwetz.github.io/wiwetzajha/"
-baseURL = "http://example.com"
+baseURL = "http://namakuwiwetz.github.io/wiwetzajha/"
 languageCode = "en-us"
 title = "wiwet ajha"
 theme = "ananke"
